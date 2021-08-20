@@ -10,8 +10,9 @@ I made it because my friends have a message considered an inside joke, so inital
 ## Requirements:
 `discord-bot` requires Python >= 3.6.9 (others are untested).
 
-You also have to install discord.py
+You also have to install discord.py and SQLite
 ```
+sudo apt-get install sqlite3 libsqlite3-dev
 python3 -m pip install -U discord.py
 ```
 
